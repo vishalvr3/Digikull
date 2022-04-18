@@ -119,7 +119,7 @@ body {
   }
 
   .image-container {
-    background-color: aqua;
+    /* background-color: aqua; */
     padding: 1rem;
     width: 70%;
     margin: auto;
