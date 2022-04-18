@@ -105,6 +105,11 @@ body {
     width: 95%;
   }
 
+  .heading {
+    font-size: 1rem;
+    /* background-color: orange; */
+  }
+
   .jim-container {
     /* background-color: olive; */
     padding: 3px;
