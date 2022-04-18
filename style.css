@@ -1,0 +1,30 @@
+body {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  /* background-color: pink; */
+  width: 90%;
+  text-align: center;
+  margin: auto;
+}
+
+.main-container .heading {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.main-container .daily-works summary {
+  font-size: 2rem;
+}
+
+.main-container .daily-works ul > li {
+  font-size: 1.5rem;
+}
